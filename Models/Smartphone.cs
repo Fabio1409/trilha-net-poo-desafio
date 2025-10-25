@@ -15,12 +15,12 @@ namespace DesafioPOO.Models
             Memoria = memoria;
         }
 
-        public void Ligar()
+        public void Ligar() 
         {
             Console.WriteLine("Ligando...");
         }
 
-        public void ReceberLigacao()
+        public void ReceberLigacao() 
         {
             Console.WriteLine("Recebendo ligação...");
         }
